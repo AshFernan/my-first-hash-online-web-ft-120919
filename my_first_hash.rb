@@ -1,7 +1,7 @@
 require 'pry'
 
 def my_hash
-  your_hash = ("name" => "Sophie")
+  your_hash = {"name" => "Asha"}
 end
 
 def shipping_manifest
